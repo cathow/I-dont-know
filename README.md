@@ -1,1 +1,1 @@
-# My-Little-Pony-as-Zodiac-Signs
+# My Little Pony as Zodiac Signs
