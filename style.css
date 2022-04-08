@@ -1,0 +1,41 @@
+#main {
+	background-color: ;
+}
+
+#rarity {
+	background-color: lavender;
+}
+
+
+#sparkle {
+	background-color: lightsteelblue;
+}
+
+#jack {
+	background-color: lightgoldenrodyellow;
+}
+
+
+#shy {
+	background-color: lightpink;
+}
+
+#dash {
+	background-color: lightcyan;
+}
+
+#pie {
+	background-color: hotpink;
+}
+
+h1{
+	color: darkslateblue;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: rebeccapurple;
+}
